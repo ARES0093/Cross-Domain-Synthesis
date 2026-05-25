@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Ignore all massive datasets to prevent upload crashes
+data/
+*.csv
