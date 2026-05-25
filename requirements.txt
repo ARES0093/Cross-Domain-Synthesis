@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+torch-geometric
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+flwr
+# tensorflow-federated
+shap
+neo4j
+docker
